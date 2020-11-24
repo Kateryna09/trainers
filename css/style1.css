@@ -1,0 +1,11 @@
+.my-flex-block{
+    height: 100px;
+    background-color: yellow;
+    margin: 10px;
+}
+.my-flex-block:last-of-type{
+    background-color: red;
+}
+.my-flex-block:first-of-type{
+    background-color: green;
+}
